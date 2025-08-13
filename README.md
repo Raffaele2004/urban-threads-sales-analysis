@@ -57,7 +57,7 @@ At-risk customers (last purchase was long ago)
 
 Lost customers (low frequency and very old purchase date)
 
-![KMeans](KMeans.png)
+![KMeans](kMeans.png)
 
 ## 2️⃣ Customer Retention by Cohort
 
@@ -65,7 +65,7 @@ Lost customers (low frequency and very old purchase date)
 A cohort retention chart showing customer return rates from August 2024 to August 2025.
 
 The heatmap clearly illustrates that most customers return within the first two months, with retention rates gradually declining over time.
-![Customer Retention by Cohort](Customer_retention_by_cohort.png)
+![Customer Retention by Cohort](customer_retention_by_cohort.png)
 
 
 ## 3️⃣ Sales Forecast with Prophet
@@ -77,7 +77,7 @@ A time series chart of daily sales with Prophet’s forecast line and confidence
 
 The forecast suggests stable sales levels in the near future.
 
-![Sales Forecast](Sales_forecast.png)
+![Sales Forecast](sales_forecast.png)
 
 Graph 2:
 
@@ -85,7 +85,7 @@ Top chart: Monthly sales trends showing growth from early 2025, followed by a sl
 
 Bottom chart: Weekly sales distribution — highest sales occur on Saturdays, lowest on Sundays.
 
-![Sales Forecast](Sales_forecast_2.png)
+![Sales Forecast](sales_forecast_2.png)
 
 ## 4️⃣ Association Rules — Support vs Confidence (Lift as Size/Color)
 
@@ -108,7 +108,7 @@ Product #16 (Footwear) is often bought together with Product #48 (Clothing) — 
 
 Other associations can be found in the Excel file (Products sheet) with product IDs and descriptions.
 
-![Association Rules](Association_rules.png)
+![Association Rules](association_rules.png)
 
 ## 5️⃣ Customer Lifetime Value (CLV) Prediction
 
@@ -121,7 +121,7 @@ Predicted Purchases
 
 Acquisition Channel
 
-![Customer_lifetime_value](Customer_lifetime_value.png)
+![Customer_lifetime_value](customer_lifetime_value.png)
 
 ## 6️⃣ Product Return Rate
 
@@ -132,7 +132,7 @@ Highest return rate: Product #43 (Footwear).
 
 Full product mapping is available in the Excel file.
 
-![Return rate per product](Return_rate_per_product.png)
+![Return rate per product](return_rate_per_product.png)
 
 ## 7️⃣ Estimated Loss per Product
 
@@ -141,7 +141,7 @@ A similar bar chart estimating revenue losses caused by product returns.
 
 Highest loss: Product #43 (Footwear).
 
-![Estimated loss per product](Estimated_loss_per_product.png)
+![Estimated loss per product](estimated_loss_per_product.png)
 
 ## 8️⃣ Average CLV by Acquisition Channel
 
@@ -152,7 +152,7 @@ Highest CLV: In-store purchases
 
 Lowest CLV: Email campaigns
 
-![Average customer lifetime value by acquisition channel](Average_customer_lifetime_value_by_acquisition_channel.png)
+![Average customer lifetime value by acquisition channel](average_customer_lifetime_value_by_acquisition_channel.png)
 
 ## 9️⃣ Monthly Sales Revenue Over Time
 
@@ -165,7 +165,7 @@ Highest month: May 2025
 
 Surprisingly low month after peak: June 2025.
 
-![Monthly sales revenue over time](Monthly_sales_revenue_over_time.png)
+![Monthly sales revenue over time](monthly_sales_revenue_over_time.png)
 
 ## 🔟 Price Elasticity of Demand (Log-Log Regression)
 
@@ -174,14 +174,14 @@ A scatter plot and regression line showing the relationship between price and qu
 
 Interestingly, the trend suggests that higher prices were associated with slightly higher quantities — likely an artifact of the synthetic dataset.
 
-![Price elasticity of demand](Price_elasticity_of_demand.png)
+![Price elasticity of demand](price_elasticity_of_demand.png)
 
 ## 1️⃣1️⃣ Daily Sales with Anomaly Detection
 
 
 A time series of daily revenue with anomalies highlighted in red, marking unusual sales peaks and dips.
 
-![Daily sales with anomaly detection](Daily_sales_with_anomaly_detection.png)
+![Daily sales with anomaly detection](daily_sales_with_anomaly_detection.png)
 
 ## 1️⃣2️⃣ Sales Heatmap by Category & Month
 
@@ -194,7 +194,7 @@ Accessories: Peaks in September 2024 and May 2025
 
 Lowest-selling categories: T-shirts and Jeans
 
-![Heatmap of sales by category and month](Heatmap_of_sales_by_category_and_month.png)
+![Heatmap of sales by category and month](heatmap_of_sales_by_category_and_month.png)
 
 # 🛠 Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, prophet, mlxtend)
