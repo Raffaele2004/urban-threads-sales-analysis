@@ -165,7 +165,7 @@ Highest month: May 2025
 
 Surprisingly low month after peak: June 2025.
 
-![Monthly sales revenue over time](Monthly_sales_revenue_over_time)
+![Monthly sales revenue over time](Monthly_sales_revenue_over_time.png)
 
 ## 🔟 Price Elasticity of Demand (Log-Log Regression)
 
