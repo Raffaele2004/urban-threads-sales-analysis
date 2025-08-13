@@ -37,8 +37,8 @@ Anomaly Detection in Daily Sales
 
 Category-Level Sales Heatmap
 
-## 📊 Visualizations & Insights
 
+# 📊 Visualizations & Insights
 
 ## 1️⃣ K-Means Clustering (RFM Segmentation)
 
