@@ -196,7 +196,7 @@ Lowest-selling categories: T-shirts and Jeans
 
 ![Heatmap of sales by category and month](Heatmap_of_sales_by_category_and_month.png)
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, prophet, mlxtend)
 - Excel
 - Power BI
