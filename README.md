@@ -57,12 +57,16 @@ At-risk customers (last purchase was long ago)
 
 Lost customers (low frequency and very old purchase date)
 
+![KMeans](KMeans.png)
+
 ## 2️⃣ Customer Retention by Cohort
 
 
 A cohort retention chart showing customer return rates from August 2024 to August 2025.
 
 The heatmap clearly illustrates that most customers return within the first two months, with retention rates gradually declining over time.
+![Customer Retention by Cohort](C
+
 
 ## 3️⃣ Sales Forecast with Prophet
 
